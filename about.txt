@@ -1,0 +1,2 @@
+This is the first git on desktop example
+I want to see how to work on it, create branches, pull, commit, etc.
